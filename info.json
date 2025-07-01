@@ -1,0 +1,17 @@
+{
+  "name": "cerys-relaxed",
+  "version": "1.1.1",
+  "title": "Cerys relaxed",
+  "author": "Lylac_SYS",
+  "factorio_version": "2.0",
+  "description": "A few attempts to make cerys less restricting in the endgame.",
+  "dependencies": [
+    "base >= 2.0.51",
+    "quality >= 2.0.51",
+    "space-age >= 2.0.51",
+    "Cerys-Moon-of-Fulgora >= 3.5.2",
+    "PlanetsLib >= 1.6.2",
+    "? even-pickier-dollies"
+  ],
+  "space_travel_required": true
+}
