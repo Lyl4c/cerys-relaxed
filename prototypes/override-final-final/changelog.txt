@@ -1,0 +1,28 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.3
+Date: 2025-07-03
+  Balancing:
+    - Space Age Crushers can now be placed on Cerys.
+  Changes:
+    - Added more fuel types to both Radiative towers.
+    - Added the recipe for Charging rods to Electromagnetic plants.
+    - Lowered the ammount of Holmium plates needed to craft Charging rods from 16 to 8.
+    - Charging rods now need 20 copper cable per craft.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.2
+Date: 2025-07-01
+  Info:
+    - Capitalized the 'title' entry in info.json.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2025-07-01
+  Features:
+    - Initial mod release.
+  Balancing:
+    - Cryogenic plants can be placed on cerys once again.
+    - Cargo Drop Pod and Radiative tower technology have been moved to right after the Cerysian Science Pack tech.
+    - Radiative towers no longer need Cryogenic Science Packs to research.
+  Compatibility:
+    - Fulgoran machines on cerys can now be moved.
+    - Added a setting to allow Fulgoran Radiative towers movement, but leave visual artifacts when setting this to true.
+    - The Fulgoran Reactor now has a setting to allow movement and is set to false by default.
