@@ -15,28 +15,24 @@ data.raw["assembling-machine"]["crusher"].surface_conditions = {
 
 data.raw["reactor"]["cerys-radiative-tower"].energy_source.fuel_categories = {
   "chemical",
-  "nuclear-fuel",
-  "rocket-fuel",
+  "nuclear",
   "chemical-or-radiative"
 }
 
 data.raw["reactor"]["cerys-fulgoran-radiative-tower"].energy_source.fuel_categories = {
   "chemical",
-  "nuclear-fuel",
-  "rocket-fuel",
+  "nuclear",
   "chemical-or-radiative"
 }
 
 data.raw["reactor"]["cerys-fulgoran-radiative-tower-frozen"].energy_source.fuel_categories = {
   "chemical",
-  "nuclear-fuel",
-  "rocket-fuel",
+  "nuclear",
   "chemical-or-radiative"
 }
 
 data.raw["reactor"]["cerys-fulgoran-radiative-tower-rising-reactor-base"].energy_source.fuel_categories = {
   "chemical",
-  "nuclear-fuel",
-  "rocket-fuel",
+  "nuclear",
   "chemical-or-radiative"
 }
